@@ -1,15 +1,21 @@
 <!-- ===================== HEADER ===================== -->
-<div align="center">
 
-<!-- 👩‍💻 Girl Coding Animation -->
-<img align="right" alt="girl coding" width="260" height="260" src="https://cdn.dribbble.com/users/1708950/screenshots/4188877/working.gif">
+<div style="display: flex; align-items: center; justify-content: center; flex-wrap: wrap;">
 
-# 👋 Hi, I'm <span style="color:#c678dd;">Jasmita Vekariya</span> 💻  
-### 🌸 Passionate Full Stack & Backend Developer | Problem Solver | AI Explorer 🌸  
+  <!-- 👩‍💻 Girl Coding Animation -->
+  <img alt="girl coding" src="https://cdn.dribbble.com/users/1708950/screenshots/4188877/working.gif" width="270" height="270" style="margin-left: 30px; border-radius: 20px;"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=800&color=AA7FFB&center=true&vCenter=true&width=700&lines=👩‍💻+B.Tech+in+Computer+Engineering+%7C+Full+Stack+Developer;🚀+Building+Web+%26+AI+Projects;💡+Exploring+Flutter+%26+Backend+Engineering;🌼+Clean+Code+%7C+Creative+Mind+%7C+Continuous+Learner" alt="Typing SVG" />
-
+  <div align="center" style="flex: 1; min-width: 300px;">
+  
+  # 👋 Hi, I'm <span style="color:#c678dd;">Jasmita Vekariya</span> 💻  
+  ### 🌸 Passionate Full Stack & Backend Developer | Problem Solver | AI Explorer 🌸  
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=800&color=AA7FFB&center=true&vCenter=true&width=700&lines=👩‍💻+B.Tech+in+Computer+Engineering+%7C+Full+Stack+Developer;🚀+Building+Web+%26+AI+Projects;💡+Exploring+Flutter+%26+Backend+Engineering;🌼+Clean+Code+%7C+Creative+Mind+%7C+Continuous+Learner" alt="Typing SVG" />
+  
+  </div>
 </div>
+
+---
 
 ### 🌸 Connect with Me  
 
@@ -22,28 +28,24 @@
 
 ---
 
----
-
 ## 🦋 Fun Zone — Animated Tech World 🌈  
 
 <p align="center">
-  <!-- Languages -->
-  <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="70" title="Java">  
-  <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="70" title="Python">  
-  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="70" title="JavaScript">  
-  <img src="https://media.giphy.com/media/UQJlZ2OcaCA2RLfGiZ/giphy.gif" width="70" title="C++">  
-  <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="70" title="HTML5">  
-  <img src="https://media.giphy.com/media/fuJPZBIIqzbt1kAYVc/giphy.gif" width="70" title="CSS3">  
-  <!-- Frameworks -->
-  <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="70" title="React">  
-  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="70" title="Node.js">  
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="70" title="Express.js">  
-  <img src="https://media.giphy.com/media/JqDcpPX8vWahUny0pE/giphy.gif" width="70" title="Django">  
-  <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="70" title="Spring Boot">  
-  <img src="https://media.giphy.com/media/TilmLMmWrRYYHjLfub/giphy.gif" width="70" title="Flutter">  
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="70" title="Git">  
-  <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width="70" title="GitHub">  
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="70" title="Cloud">  
+  <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="70" title="Java">
+  <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="70" title="Python">
+  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="70" title="JavaScript">
+  <img src="https://media.giphy.com/media/UQJlZ2OcaCA2RLfGiZ/giphy.gif" width="70" title="C++">
+  <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="70" title="HTML5">
+  <img src="https://media.giphy.com/media/fuJPZBIIqzbt1kAYVc/giphy.gif" width="70" title="CSS3">
+  <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="70" title="React">
+  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="70" title="Node.js">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="70" title="Express.js">
+  <img src="https://media.giphy.com/media/JqDcpPX8vWahUny0pE/giphy.gif" width="70" title="Django">
+  <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="70" title="Spring Boot">
+  <img src="https://media.giphy.com/media/TilmLMmWrRYYHjLfub/giphy.gif" width="70" title="Flutter">
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="70" title="Git">
+  <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width="70" title="GitHub">
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="70" title="Cloud">
 </p>
 
 ---
