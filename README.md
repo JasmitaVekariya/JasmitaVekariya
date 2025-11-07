@@ -31,17 +31,6 @@
 
 ---
 
-### 🌸 Connect with Me  
-
-<p align="center">
-  <a href="mailto:pjasmita7@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="http://www.linkedin.com/in/jasmita-vekariya"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/JasmitaVekariya"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://leetcode.com/u/jasmitaVekariya/"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black"></a>
-</p>
-
----
-
 ## 🦋 Fun Zone — Animated Tech World 🌈  
 
 <p align="center">
