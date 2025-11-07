@@ -3,7 +3,7 @@
 <div style="display: flex; align-items: center; justify-content: center; flex-wrap: wrap;">
 
   <!-- 👩‍💻 Girl Coding Animation -->
-  <img alt="girl coding" src="https://cdn.dribbble.com/users/1708950/screenshots/4188877/working.gif" width="270" height="270" style="margin-left: 30px; border-radius: 20px;"/>
+ <img align="right" alt="coding girl" width="250" height="250" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
   <div align="center" style="flex: 1; min-width: 300px;">
   
