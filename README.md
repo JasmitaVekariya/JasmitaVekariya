@@ -24,7 +24,7 @@
 
   <!-- RIGHT SIDE: GIRL CODING ANIMATION -->
   <div align="right" style="flex: 1; min-width: 300px;">
-    <img align="right" alt="coding girl" width="250" height="250" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+    <img align="right" alt="coding girl" width="500" height="600" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
   </div>
 
 </div>
