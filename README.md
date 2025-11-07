@@ -1,18 +1,32 @@
 <!-- ===================== HEADER ===================== -->
 
-<div style="display: flex; align-items: center; justify-content: center; flex-wrap: wrap;">
+<div style="display: flex; align-items: center; justify-content: space-around; flex-wrap: wrap;">
 
-  <!-- 👩‍💻 Girl Coding Animation -->
- <img align="right" alt="coding girl" width="250" height="250" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+  <!-- LEFT SIDE: NAME + TITLE + CONNECT -->
+  <div align="left" style="flex: 1; min-width: 320px;">
 
-  <div align="center" style="flex: 1; min-width: 300px;">
-  
   # 👋 Hi, I'm <span style="color:#c678dd;">Jasmita Vekariya</span> 💻  
   ### 🌸 Passionate Full Stack & Backend Developer | Problem Solver | AI Explorer 🌸  
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=800&color=AA7FFB&center=true&vCenter=true&width=700&lines=👩‍💻+B.Tech+in+Computer+Engineering+%7C+Full+Stack+Developer;🚀+Building+Web+%26+AI+Projects;💡+Exploring+Flutter+%26+Backend+Engineering;🌼+Clean+Code+%7C+Creative+Mind+%7C+Continuous+Learner" alt="Typing SVG" />
-  
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=800&color=AA7FFB&vCenter=true&width=500&lines=👩‍💻+B.Tech+in+Computer+Engineering+%7C+Full+Stack+Developer;🚀+Building+Web+%26+AI+Projects;💡+Exploring+Flutter+%26+Backend+Engineering;🌼+Clean+Code+%7C+Creative+Mind+%7C+Continuous+Learner" alt="Typing SVG" />
+
+  <br>
+
+  ### 🌸 Connect with Me  
+  <p>
+    <a href="mailto:pjasmita7@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+    <a href="http://www.linkedin.com/in/jasmita-vekariya"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <a href="https://github.com/JasmitaVekariya"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"></a>
+    <a href="https://leetcode.com/u/jasmitaVekariya/"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black"></a>
+  </p>
+
   </div>
+
+  <!-- RIGHT SIDE: GIRL CODING ANIMATION -->
+  <div align="right" style="flex: 1; min-width: 300px;">
+    <img alt="coding girl" src="https://cdn.dribbble.com/users/1708950/screenshots/4188877/working.gif" width="300" height="260" style="border-radius: 15px;"/>
+  </div>
+
 </div>
 
 ---
