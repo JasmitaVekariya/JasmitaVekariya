@@ -1,106 +1,59 @@
-<!-- 🌟 Jasu’s Classic Animated GitHub Profile -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=2500&pause=1000&color=5BCDEC&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Jasu!+👋;Full+Stack+Developer+💻;Flutter+%7C+Django+%7C+Spring+Boot+%7C+Node.js;Turning+Ideas+into+Reality+✨" alt="Typing SVG" />
-</h1>
+# 👋 Hi, I'm Jasmita Vekariya
 
-<p align="center">
-  <img src="https://github.com/yourusername/yourusername/blob/main/assets/banner.gif" width="90%" alt="Banner"/>
-</p>
+🎓 **B.Tech in Computer Engineering (CPI: 8.54)** | 💻 **Full-Stack Developer** | 🚀 **Problem Solver**  
+
+I'm an enthusiastic Computer Engineering student passionate about building **scalable web applications**, **backend systems**, and exploring **emerging technologies** like AI/ML and Flutter.  
+I love solving challenging problems, designing efficient algorithms, and crafting impactful digital experiences.  
 
 ---
 
-### 🧠 About Me  
-> 💡 “Code is where creativity meets logic.”
+## 🛠 Tech Stack  
 
-- 🎓 Computer Science student passionate about *software engineering & innovation*  
-- 🚀 Building projects in *MERN, Django, Spring Boot, Flutter & AWS*  
-- 🌍 Always exploring new stacks & solving real-world problems  
-- ✨ Loves clean design, automation, and user experience  
+**Languages**  
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)  ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)  ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  ![SQL](https://img.shields.io/badge/SQL-%23025E8C.svg?style=for-the-badge&logo=sqlite&logoColor=white)  
 
----
+**Frontend**  
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)  ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)  
 
-### ⚙ Tech Stack  
+**Backend**  
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)  ![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)  ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)  ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)  ![Hibernate](https://img.shields.io/badge/Hibernate-%23596C6C.svg?style=for-the-badge&logo=hibernate&logoColor=white)  
 
-<div align="center">
-  
-| Frontend | Backend | Database | DevOps & Tools |
-|-----------|----------|-----------|----------------|
-| React, Flutter, HTML/CSS | Node.js, Django, Spring Boot | MongoDB, MySQL | AWS S3, Git, Docker, Postman |
-
-</div>
+**Databases & Tools**  
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)  ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)  ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)  ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)  ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)  ![Render](https://img.shields.io/badge/Render-%230046E2.svg?style=for-the-badge&logo=render&logoColor=white)  
 
 ---
 
-### 🌈 Featured Projects  
+## 🚀 Featured Projects  
 
-#### 🔹 [🧩 CodeVault CLI](https://github.com/yourusername/codevault-cli)
-> A custom *CLI tool* for creating & managing repositories (like GitHub but offline).  
-> Built with Node.js, AWS S3, and Yargs.
-
-#### 🔹 [🎓 College Management System](https://github.com/yourusername/college-management)
-> A *Django-based* management system for students, faculty & admin.  
-> Includes *result and fee management + online payment*.
-
-#### 🔹 [⛽ FuelGo App](https://github.com/yourusername/fuelgo)
-> A *Flutter app* for petrol delivery & station connections.  
-> Firebase integration and real-time delivery tracking.
+### 📌 [Recipify](https://github.com/JasmitaVekariya/Recipify) — *Spring Boot / Hibernate*  
+- Backend for a **recipe-sharing platform** supporting 1,000+ users with role-based access.  
+- REST APIs for CRUD operations on 500+ recipes with likes, comments, and admin moderation.  
+- Thorough testing of 100+ API endpoints using Postman.  
 
 ---
 
-### 🧭 Stats & Activity  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true" height="150" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&hide_border=true&area=true" width="90%" />
-</p>
+### 📌 [HostHub](https://github.com/JasmitaVekariya/Project-HostHub) — *MERN Stack*  
+- Full-stack **Airbnb clone** with secure authentication and CRUD for 500+ property listings.  
+- Integrated Mapbox for interactive maps & Cloudinary for optimized image uploads.  
+- APIs handling 10,000+ MongoDB records.  
 
 ---
 
-### 🧩 Languages Breakdown  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true" height="150" />
-</p>
+### 📌 [College Management System](https://github.com/JasmitaVekariya/django-project-college-management-system) — *Django*  
+- Served 500+ students and 10 admins with secure, role-based authentication.  
+- CRUD operations for 1,000+ student records and an automated marks-entry system.  
+- Email automation reduced manual work by 80%.  
 
 ---
 
-### 💻 Developer Metrics  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark&no-frame=true&row=1" />
-</p>
+## 📈 Coding Profiles  
 
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=yourusername&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" width="80%" />
-</p>
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/jasmitaVekariya/)  
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%230F9D58.svg?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/jasmita-vekariya-b55aa128b)  
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JasmitaVekariya)  
 
 ---
+Check Out My Portfolio : https://jasmita-portfolio.onrender.com
 
-### 🌱 Currently Learning  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,flutter,django,spring,aws,mongodb,typescript,express" />
-</p>
-
----
-
-### 💬 Connect With Me  
-<p align="center">
-  <a href="mailto:yourmail@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-informational?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge&logo=google-chrome" /></a>
-  <a href="https://twitter.com/yourprofile"><img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter" /></a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=1000&color=6EE7B7&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!;Let's+build+something+amazing+✨" alt="Typing SVG End" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=100&section=footer"/>
-</p>
+⭐ *"Code is like humor. When you have to explain it, it’s bad."* — Cory House  
