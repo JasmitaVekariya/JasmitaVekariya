@@ -7,7 +7,7 @@
 
    <!-- RIGHT SIDE: GIRL CODING ANIMATION -->
   <div align="right" style="flex: 1; min-width: 300px;">
-    <img align="right" alt="coding girl" width="500" height="600" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+    <img align="right" alt="coding girl" width="550" height="700" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
   </div>
 
   # 👋 Hi, I'm <span style="color:#c678dd;">Jasmita Vekariya</span> 💻  
