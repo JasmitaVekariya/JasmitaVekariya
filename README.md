@@ -5,11 +5,6 @@
   <!-- LEFT SIDE: NAME + TITLE + CONNECT -->
   <div align="left" style="flex: 1; min-width: 320px;">
 
-   <!-- RIGHT SIDE: GIRL CODING ANIMATION -->
-  <div align="right" style="flex: 1; min-width: 300px;">
-    <img align="right" alt="coding girl" width="500" height="500" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-  </div>
-
   # 👋 Hi, I'm <span style="color:#c678dd;">Jasmita Vekariya</span> 💻  
   ### 🌸 Passionate Full Stack & Backend Developer | Problem Solver | AI Explorer 🌸  
 
@@ -18,13 +13,18 @@
   <br>
 
   ### 🌸 Connect with Me  
-  <p align:"left" style="margin-top: 10px; margin-bottom: 75px;">
+  <p style="margin-top: 10px; margin-bottom: 75px;">
     <a href="mailto:pjasmita7@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
     <a href="http://www.linkedin.com/in/jasmita-vekariya"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     <a href="https://github.com/JasmitaVekariya"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"></a>
     <a href="https://leetcode.com/u/jasmitaVekariya/"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black"></a>
   </p>
 
+  </div>
+
+  <!-- RIGHT SIDE: GIRL CODING ANIMATION -->
+  <div align="right" style="flex: 1; min-width: 300px;">
+    <img alt="coding girl" src="https://cdn.dribbble.com/users/1708950/screenshots/4188877/working.gif" width="400" height="400" style="border-radius: 15px;"/>
   </div>
 
 </div>
