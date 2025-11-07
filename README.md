@@ -1,10 +1,14 @@
-<!-- Animated Header -->
-<h1 align="center">👋 Hi, I'm <span style="color:#c678dd;">Jasmita Vekariya</span> 💻</h1>
-<h3 align="center">🌸 Passionate Full Stack & Backend Developer | Problem Solver | AI Explorer 🌸</h3>
+<!-- ===================== HEADER ===================== -->
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=600&lines=👩‍💻+B.Tech+in+Computer+Engineering+%7C+Full+Stack+Developer;🚀+Building+Web+%26+AI+Projects;💡+Exploring+Flutter+%26+Backend+Engineering;🌼+Clean+Code+%7C+Creative+Mind+%7C+Continuous+Learner" alt="Typing SVG" />
-</p>
+<img align="right" alt="coding girl" width="250" height="250" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+# 👋 Hi, I'm <span style="color:#c678dd;">Jasmita Vekariya</span> 💻  
+### 🌸 Passionate Full Stack & Backend Developer | Problem Solver | AI Explorer 🌸  
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=800&color=AA7FFB&center=true&vCenter=true&width=700&lines=👩‍💻+B.Tech+in+Computer+Engineering+%7C+Full+Stack+Developer;🚀+Building+Web+%26+AI+Projects;💡+Exploring+Flutter+%26+Backend+Engineering;🌼+Clean+Code+%7C+Creative+Mind+%7C+Continuous+Learner" alt="Typing SVG" />
+
+</div>
 
 ---
 
@@ -95,12 +99,29 @@
 
 ---
 
-### 🦋 Fun Zone  
+## 🦋 Fun Zone — Let’s Animate the Tech 🌈  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="70" /> 
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="120" /> 
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="100" /> 
+  <!-- Languages -->
+  <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="70" title="Java">  
+  <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="70" title="Python">  
+  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="70" title="JavaScript">  
+  <img src="https://media.giphy.com/media/UQJlZ2OcaCA2RLfGiZ/giphy.gif" width="70" title="C++">  
+  <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="70" title="HTML5">  
+  <img src="https://media.giphy.com/media/fuJPZBIIqzbt1kAYVc/giphy.gif" width="70" title="CSS3">  
+  <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="70" title="React">  
+  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="70" title="Node.js">  
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="70" title="Express.js">  
+  <img src="https://media.giphy.com/media/JqDcpPX8vWahUny0pE/giphy.gif" width="70" title="Django">  
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="70" title="Python">  
+  <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="70" title="Spring Boot">  
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="70" title="Git">  
+  <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width="70" title="GitHub">  
+  <img src="https://media.giphy.com/media/TilmLMmWrRYYHjLfub/giphy.gif" width="70" title="Flutter">  
 </p>
 
-✨ *“Code is like art — elegant, expressive, and endless in creativity.”*  
+---
+
+<p align="center">
+✨ *“Code is like art — elegant, expressive, and endless in creativity.”* ✨  
+</p>
