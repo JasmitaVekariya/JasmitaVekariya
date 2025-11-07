@@ -5,6 +5,11 @@
   <!-- LEFT SIDE: NAME + TITLE + CONNECT -->
   <div align="left" style="flex: 1; min-width: 320px;">
 
+   <!-- RIGHT SIDE: GIRL CODING ANIMATION -->
+  <div align="right" style="flex: 1; min-width: 300px;">
+    <img align="right" alt="coding girl" width="500" height="600" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+  </div>
+
   # 👋 Hi, I'm <span style="color:#c678dd;">Jasmita Vekariya</span> 💻  
   ### 🌸 Passionate Full Stack & Backend Developer | Problem Solver | AI Explorer 🌸  
 
@@ -20,11 +25,6 @@
     <a href="https://leetcode.com/u/jasmitaVekariya/"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black"></a>
   </p>
 
-  </div>
-
-  <!-- RIGHT SIDE: GIRL CODING ANIMATION -->
-  <div align="right" style="flex: 1; min-width: 300px;">
-    <img align="right" alt="coding girl" width="500" height="600" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
   </div>
 
 </div>
