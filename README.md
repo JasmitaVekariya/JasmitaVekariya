@@ -1,59 +1,106 @@
-# 👋 Hi, I'm Jasmita Vekariya
+<!-- Animated Header -->
+<h1 align="center">👋 Hi, I'm <span style="color:#c678dd;">Jasmita Vekariya</span> 💻</h1>
+<h3 align="center">🌸 Passionate Full Stack & Backend Developer | Problem Solver | AI Explorer 🌸</h3>
 
-🎓 **B.Tech in Computer Engineering (CPI: 8.54)** | 💻 **Full-Stack Developer** | 🚀 **Problem Solver**  
-
-I'm an enthusiastic Computer Engineering student passionate about building **scalable web applications**, **backend systems**, and exploring **emerging technologies** like AI/ML and Flutter.  
-I love solving challenging problems, designing efficient algorithms, and crafting impactful digital experiences.  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=600&lines=👩‍💻+B.Tech+in+Computer+Engineering+%7C+Full+Stack+Developer;🚀+Building+Web+%26+AI+Projects;💡+Exploring+Flutter+%26+Backend+Engineering;🌼+Clean+Code+%7C+Creative+Mind+%7C+Continuous+Learner" alt="Typing SVG" />
+</p>
 
 ---
 
-## 🛠 Tech Stack  
+### 🧠 About Me  
+
+🎓 **B.Tech in Computer Engineering** | CPI: **8.78**  
+💬 Enthusiastic about **Full Stack Development**, **Backend Systems**, and **Emerging Tech**.  
+💡 I enjoy solving DSA problems, mentoring juniors, and contributing to innovative projects.  
+🌱 Currently learning: **Cloud Deployments (AWS, Render)** and **Flutter Backend Integration**  
+🎯 Goal: To become a Software Engineer specializing in scalable backend architectures.  
+
+---
+
+### 💻 Tech Stack  
 
 **Languages**  
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)  ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)  ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  ![SQL](https://img.shields.io/badge/SQL-%23025E8C.svg?style=for-the-badge&logo=sqlite&logoColor=white)  
+`Java` • `C++` • `Python` • `JavaScript` • `C#` • `Dart` • `SQL`  
 
-**Frontend**  
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)  ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)  
-
-**Backend**  
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)  ![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)  ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)  ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)  ![Hibernate](https://img.shields.io/badge/Hibernate-%23596C6C.svg?style=for-the-badge&logo=hibernate&logoColor=white)  
+**Frameworks & Libraries**  
+`React.js` • `Node.js` • `Express.js` • `Spring Boot` • `Django` • `.NET Core` • `Flutter` • `Hibernate`
 
 **Databases & Tools**  
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)  ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)  ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)  ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)  ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)  ![Render](https://img.shields.io/badge/Render-%230046E2.svg?style=for-the-badge&logo=render&logoColor=white)  
+`MySQL` • `MongoDB` • `Postman` • `Docker` • `AWS` • `Git/GitHub` • `VS Code` • `Render`
 
 ---
 
-## 🚀 Featured Projects  
+### 🚀 Featured Projects  
 
-### 📌 [Recipify](https://github.com/JasmitaVekariya/Recipify) — *Spring Boot / Hibernate*  
-- Backend for a **recipe-sharing platform** supporting 1,000+ users with role-based access.  
-- REST APIs for CRUD operations on 500+ recipes with likes, comments, and admin moderation.  
-- Thorough testing of 100+ API endpoints using Postman.  
+#### 🌐 [Version Flex](https://github.com/JasmitaVekariya/GitHub_Clone) — *MERN + AWS*
+> 💡 Built a GitHub-like version control system supporting CLI & GUI operations.  
+> 🔐 JWT Authentication | 🧠 AWS S3 Integration | 📜 Commit History Tracking
 
----
+#### 🍲 [Recipify](https://github.com/JasmitaVekariya/Recipify) — *Spring Boot / Hibernate*  
+> 🍴 Recipe-sharing platform with RBAC, CRUD APIs, likes/comments, and Razorpay payments.  
+> 🧾 100+ tested endpoints with clean backend architecture.
 
-### 📌 [HostHub](https://github.com/JasmitaVekariya/Project-HostHub) — *MERN Stack*  
-- Full-stack **Airbnb clone** with secure authentication and CRUD for 500+ property listings.  
-- Integrated Mapbox for interactive maps & Cloudinary for optimized image uploads.  
-- APIs handling 10,000+ MongoDB records.  
+#### 🏨 [Holiday Hotels](https://github.com/JasmitaVekariya/Project-HostHub) — *MERN Stack*  
+> 🗺 Airbnb-style web app with secure authentication, Cloudinary uploads, and Mapbox integration.
 
----
+#### ⛽ [ReFuelX](https://github.com/JasmitaVekariya/Refulex_flutter) — *Flutter + Node.js*  
+> 🚗 Fuel delivery app with real-time GPS tracking & AI-assisted clean code workflow.
 
-### 📌 [College Management System](https://github.com/JasmitaVekariya/django-project-college-management-system) — *Django*  
-- Served 500+ students and 10 admins with secure, role-based authentication.  
-- CRUD operations for 1,000+ student records and an automated marks-entry system.  
-- Email automation reduced manual work by 80%.  
+#### 🤖 [AI Hub](https://github.com/JasmitaVekariya/AIHub) — *.NET Core + React.js*  
+> 💬 Unified platform integrating multiple AI assistants using modular components.
 
 ---
 
-## 📈 Coding Profiles  
+### 🏆 Achievements  
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/jasmitaVekariya/)  
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%230F9D58.svg?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/jasmita-vekariya-b55aa128b)  
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JasmitaVekariya)  
+⭐ **LeetCode** – 500+ problems solved | Top **11.04%** globally  
+🥈 **ICPC CodeQuest @ DDU** – Secured **2nd Rank**  
+🎓 **NPTEL** – Elite Certification in *Data Analytics & Algorithms*  
+🧩 **Flipkart Grid 7.0** – Cleared first round  
+🌟 **Mentor @ DDU Coding Community** – Organized coding workshops & guided juniors  
 
 ---
-Check Out My Portfolio : https://jasmita-portfolio.onrender.com
 
-⭐ *"Code is like humor. When you have to explain it, it’s bad."* — Cory House  
+### 🎓 Education  
+
+**Dharmsinh Desai University (B.Tech – Computer Engineering)**  
+📈 *CPI: 8.78*  
+**Tapovan Science School, Gujarat Board**  
+🏅 Class XII – 97.16% | Class X – 97.80%
+
+---
+
+### 📊 GitHub Stats & Activity  
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=JasmitaVekariya&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=JasmitaVekariya&theme=radical" />
+</p>
+
+<p align="center">
+  <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=JasmitaVekariya&theme=dracula" />
+</p>
+
+---
+
+### 🌸 Connect with Me  
+
+<p align="center">
+  <a href="mailto:pjasmita7@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="http://www.linkedin.com/in/jasmita-vekariya"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/JasmitaVekariya"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://leetcode.com/u/jasmitaVekariya/"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black"></a>
+</p>
+
+---
+
+### 🦋 Fun Zone  
+
+<p align="center">
+  <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="70" /> 
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="120" /> 
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="100" /> 
+</p>
+
+✨ *“Code is like art — elegant, expressive, and endless in creativity.”*  
