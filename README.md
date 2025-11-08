@@ -114,10 +114,6 @@
   <img width="60%" src="https://leetcard.jacoblin.cool/jasmitaVekariya?theme=dark&font=Fira%20Code&ext=contest" />
 </p>
 
-<p align="center">
-  <img width="60%" src="https://leetcard.jacoblin.cool/jasmitaVekariya?theme=dark&border=0&radius=10&ext=activity" />
-</p>
-
 ---
 
 ## 📊 GitHub Stats & Activity  
