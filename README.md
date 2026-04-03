@@ -129,6 +129,15 @@
 
 ---
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=JasmitaVekariya&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views"/>
+  <br><br>
+  <b>⭐ If you find my work interesting, drop a star on my repos!</b><br>
+  <b>🤝 Open to collaborations and interesting conversations!</b>
+</div>
+
+---
+
 <p align="center">
 ✨ *“Code is like art — elegant, expressive, and endless in creativity.”* ✨  
 </p>
